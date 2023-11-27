@@ -4,26 +4,22 @@
 
 <b>Simple Yet A Feature Rich Music Player Application.</b></br>
 
-<b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
-  <br>https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/Music%20Player%20v4.0.5-9.apk (v4.0.5)
 
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_5.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_1.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_8.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_6.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_3.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_4.png" width=30% height=30%/>  
+
+<b>Some ScreenShots:</b></br>
+
+
+<img src="https://github.com/divyanksharma19/MusicPlayer/assets/123388291/4aaf8fc5-aec2-4745-b715-044d0aa40da3" width=30% height=30%/>  
+<img src="https://github.com/divyanksharma19/MusicPlayer/assets/123388291/ecda4b26-91aa-4636-ac08-f801747b5469" width=30% height=30%/> 
+<img src="https://github.com/divyanksharma19/MusicPlayer/assets/123388291/27804902-8de0-4596-82d2-71cfae8e10fa" width=30% height=30%/> 
+<img src="https://github.com/divyanksharma19/MusicPlayer/assets/123388291/23be2115-db63-42f1-9251-40203d892b90" width=30% height=30%/> 
 <br>
 <br>
-  
- <b>Features👇 : </b>
+
+
 <ul>
 <li>Play/Pause Audio Using EarPhones
 <li>Play Next Feature (i.e. Now You Can Schedule Upcoming Songs)
-<li>Dark Theme(Using Black Theme in Settings)
 <li>Custom Color Gradient According To Each Song Image
 <li>Favourite Songs
 <li>Create & Add Playlists
@@ -36,7 +32,7 @@
 <li>Background Playing with Custom Notification
 <li>Android 10 Notification with Seekbar
 <li>Decent UI with New Material Widgets
-<li>And Much More....
+
 </ul>
   
 <b>Watch Full Playlist on Youtube:</b>
